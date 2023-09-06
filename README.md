@@ -1,1 +1,1 @@
-# Comp.-thinking
+# Computer Thinking & Programming
