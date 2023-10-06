@@ -1,1 +1,1 @@
-# Computer Thinking & Programming
+# Computational Thinking & Programming
